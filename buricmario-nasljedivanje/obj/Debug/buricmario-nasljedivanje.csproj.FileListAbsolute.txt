@@ -1,0 +1,2 @@
+C:\Users\4.D\source\repos\buricmario-nasljedivanje\buricmario-nasljedivanje\obj\Debug\buricmario-nasljedivanje.csprojAssemblyReference.cache
+C:\Users\4.D\source\repos\buricmario-nasljedivanje\buricmario-nasljedivanje\obj\Debug\buricmario-nasljedivanje.csproj.CoreCompileInputs.cache
